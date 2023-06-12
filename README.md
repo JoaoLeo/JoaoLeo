@@ -1,15 +1,16 @@
-<h1> Bem vindo ao meu perfil! </h1>
+<h1> Bem vindo(a) ao meu perfil! 👋🏽 </h1>
 
-<h3> Sobre mim: </h3>
+<h3> 👨🏽‍💻 Sobre mim: </h3>
   • Estudante de Análise e Desenvolvimento de Sistemas: 3/5 <br>
   
   • Estudando: Java / Javascript <br>
   • Desenvolvedor Fullstack com estudos focados em Spring Boot para criação de APIs, Hibernate para manipulação de banco de dados, React js para a criação de telas e components. <br>
 
-<h3> Tecnologias mais usadas: </h3>
+<h3> 💻 Tecnologias mais usadas: </h3>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLeo&layout=compact&langs_count=6&theme=tokyonight"/>
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
   
+  <h3> 📚 Conhecimentos: </h3>
 <table>
   <tr>
     <th>Backend</th>
