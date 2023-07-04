@@ -20,23 +20,23 @@
   </tr>
   <tr>
     <td>
-      <img align="center" height="60" width="70"  src="https://skillicons.dev/icons?i=java">
-      <img align="center" height="60" width="70" src="https://skillicons.dev/icons?i=spring">
+      <img align="center" height="50" width="60"  src="https://skillicons.dev/icons?i=java">
+      <img align="center" height="50" width="60" src="https://skillicons.dev/icons?i=spring">
     </td>
     <td>
-      <img align="center" height="60" width="70"  src="https://skillicons.dev/icons?i=js">
-      <img align="center" height="60" width="70"  src="https://skillicons.dev/icons?i=react">
+      <img align="center" height="50" width="60"  src="https://skillicons.dev/icons?i=js">
+      <img align="center" height="50" width="60"  src="https://skillicons.dev/icons?i=react">
     </td>
     <td>
-      <img align="center" height="60" width="70"  src="https://skillicons.dev/icons?i=mysql">        
+      <img align="center" height="50" width="60"  src="https://skillicons.dev/icons?i=mysql">        
     </td>
     <td>
-      <img align="center" height="60" width="70" src="https://skillicons.dev/icons?i=idea">
-      <img align="center" height="60" width="60" src="https://skillicons.dev/icons?i=vscode">
-      <img align="center" height="60" width="70" src="https://skillicons.dev/icons?i=git">
-      <img align="center" height="60" width="70" src="https://skillicons.dev/icons?i=postman">  
-      <img align="center" height="60" width="70" src="https://skillicons.dev/icons?i=linux">   
-      <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">  
+      <img align="center" height="50" width="60" src="https://skillicons.dev/icons?i=idea">
+      <img align="center" height="50" width="50" src="https://skillicons.dev/icons?i=vscode">
+      <img align="center" height="50" width="60" src="https://skillicons.dev/icons?i=git">
+      <img align="center" height="50" width="60" src="https://skillicons.dev/icons?i=postman">  
+      <img align="center" height="50" width="60" src="https://skillicons.dev/icons?i=linux">   
+      <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">  
     </td>
   </tr>
 </table>
