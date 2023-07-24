@@ -3,8 +3,7 @@
 <h3> 👨🏽‍💻 Sobre mim: </h3>
   • Estudante de Análise e Desenvolvimento de Sistemas: 3/5 <br>
   
-  • Estudando: Java / Javascript <br>
-  • Desenvolvedor Fullstack com estudos focados em Java com Spring Boot para criação de backend e Javascript com React js para a criação de frontend. <br>
+  • Desenvolvedor Fullstack Java | Javascript <br>
 
 <h3> 💻 Tecnologias mais usadas: </h3>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLeo&layout=compact&langs_count=6&theme=tokyonight"/>
