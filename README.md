@@ -20,14 +20,16 @@
   <tr>
     <td>
       <img align="center" height="50" width="60"  src="https://skillicons.dev/icons?i=java">
+     <img align="center" height="65" width="75"           src="https://raw.githubusercontent.com/quarkusio/quarkusio.github.io/f88d9692638a0c1b8235a871ef80e3bf864b8f7f/assets/images/stickers/sticker_logo_vertical.png">
       <img align="center" height="50" width="60" src="https://skillicons.dev/icons?i=spring">
     </td>
     <td>
       <img align="center" height="50" width="60"  src="https://skillicons.dev/icons?i=js">
+      <img align="center" height="50" width="60"  src="https://skillicons.dev/icons?i=vue">
       <img align="center" height="50" width="60"  src="https://skillicons.dev/icons?i=react">
     </td>
     <td>
-      <img align="center" height="50" width="60"  src="https://skillicons.dev/icons?i=mysql">        
+      <img align="center" height="50" width="60"  src="https://skillicons.dev/icons?i=mysql">   
     </td>
     <td>
       <img align="center" height="50" width="60" src="https://skillicons.dev/icons?i=idea">
