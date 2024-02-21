@@ -1,7 +1,7 @@
 <h1> Bem vindo(a) ao meu perfil! 👋🏽 </h1>
 
 <h3> 👨🏽‍💻 Sobre mim: </h3>
-  • Estudante de Análise e Desenvolvimento de Sistemas: 4/5 <br>
+  • Estudante de Análise e Desenvolvimento de Sistemas: 5/5 <br>
   
   • Desenvolvedor Fullstack Java | Javascript <br>
 
