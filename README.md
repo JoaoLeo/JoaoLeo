@@ -12,7 +12,6 @@
   <h3> 📚 Conhecimentos  e habilidades que estou estudando: </h3>
 <div> 
       <img align="center" height="60" width="60"  src="https://skillicons.dev/icons?i=java">
-     <img align="center" height="60" width="60"           src="https://raw.githubusercontent.com/quarkusio/quarkusio.github.io/f88d9692638a0c1b8235a871ef80e3bf864b8f7f/assets/images/stickers/sticker_logo_vertical.png">
       <img align="center" height="60" width="60" src="https://skillicons.dev/icons?i=spring">
       <img align="center" height="60" width="60"  src="https://skillicons.dev/icons?i=js">
       <img align="center" height="60" width="60"  src="https://skillicons.dev/icons?i=vue">
