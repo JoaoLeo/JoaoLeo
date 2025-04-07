@@ -51,7 +51,7 @@ Skilled in backend architecture and development, responsible for designing, impl
 ## 📫 Contato | Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/joaoleo" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-leonardo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:seuemail@exemplo.com">
