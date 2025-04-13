@@ -5,18 +5,10 @@
 ## 👨🏽‍💻 Sobre mim | About me
 
 🧑🏽‍💻 **Português (PT-BR):**  
-Desenvolvedor de Software Fullstack com foco em backend, graduado em Análise e Desenvolvimento de Sistemas e pós-graduando em Engenharia de Software.  
-Experiência consolidada na manutenção de sistemas legados e no desenvolvimento de novos projetos, atuando em todas as etapas do processo, desde a elicitação de requisitos e validação técnica até a arquitetura, desenvolvimento, deploy e manutenção contínua.  
-Atuação em equipes ágeis, com ampla experiência em Scrum, participando ativamente de cerimônias como planejamento, daily meetings e retrospectivas.  
-Contribuo para a validação técnica dos requisitos e ajudo a melhorar os fluxos de trabalho e o entendimento do processo, garantindo entregas eficientes, adaptáveis e alinhadas às necessidades do negócio.  
-Experiente na arquitetura e desenvolvimento backend, com responsabilidade pela criação, implementação e manutenção de APIs e da camada de backend, projetando soluções escaláveis, robustas e de alta performance.
+Desenvolvedor Fullstack especializado em backend com formação em Análise de Sistemas e pós-graduação em Engenharia de Software. Experiente em manutenção de sistemas legados e desenvolvimento de novos projetos, atuando em todas as etapas do ciclo de desenvolvimento. Pratica metodologias ágeis com foco em Scrum, participando ativamente das cerimônias. Contribui para validação técnica e melhoria de fluxos de trabalho. Especialista em arquitetura backend, desenvolvimento de APIs e soluções escaláveis.
 
 🧑🏽‍💻 **English (EN):**  
-Fullstack Software Developer focused on backend, graduated in Systems Analysis and Development and currently pursuing a postgraduate degree in Software Engineering.  
-Strong experience in maintaining legacy systems and developing new projects, involved in all stages of the process: from requirement elicitation and technical validation to architecture, development, deployment, and continuous maintenance.  
-Experienced in agile teams, actively participating in Scrum ceremonies such as planning, daily meetings, and retrospectives.  
-I contribute to the technical validation of requirements and help improve workflows and understanding of the process, ensuring efficient, adaptable, and business-aligned deliveries.  
-Skilled in backend architecture and development, responsible for designing, implementing, and maintaining APIs and backend layers, creating scalable, robust, and high-performance solutions.
+Backend-focused Fullstack Developer with Systems Analysis degree and ongoing Software Engineering postgrad. Experienced in legacy system maintenance and new project development across all stages. Works with agile methodologies, particularly Scrum ceremonies. Contributes to technical validation and workflow improvements. Specializes in backend architecture, API development, and creating scalable solutions.
 
 ---
 
