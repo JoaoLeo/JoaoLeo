@@ -67,4 +67,4 @@ Skilled in backend architecture and development, responsible for designing, impl
 
 ## 📊 GitHub Stats
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLeo&layout=compact&langs_count=6&theme=tokyonight"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLeo&layout=compact&langs_count=10&theme=tokyonight"/>
