@@ -5,10 +5,10 @@
 ## 👨🏽‍💻 Sobre mim | About me
 
 🧑🏽‍💻 **Português (PT-BR):**  
-Desenvolvedor Fullstack especializado em backend com formação em Análise de Sistemas e pós-graduação em Engenharia de Software. Experiente em manutenção de sistemas legados e desenvolvimento de novos projetos, atuando em todas as etapas do ciclo de desenvolvimento. Pratica metodologias ágeis com foco em Scrum, participando ativamente das cerimônias. Contribui para validação técnica e melhoria de fluxos de trabalho. Especialista em arquitetura backend, desenvolvimento de APIs e soluções escaláveis.
+Sou desenvolvedor Fullstack especializado em backend com formação em Análise e Desenvolvimento de Sistemas e pós-graduando em Engenharia de Software. Possuo forte experiência em arquitetura de código, criando soluções robustas e escaláveis para sistemas complexos. Atuo em todo o ciclo de desenvolvimento, desde a concepção até o deploy, implementando APIs e sistemas de alto desempenho. Utilizo metodologias ágeis e dedico-me à evolução constante de sistemas legados e à criação de novas soluções tecnológicas inovadoras.
 
 🧑🏽‍💻 **English (EN):**  
-Backend-focused Fullstack Developer with Systems Analysis degree and ongoing Software Engineering postgrad. Experienced in legacy system maintenance and new project development across all stages. Works with agile methodologies, particularly Scrum ceremonies. Contributes to technical validation and workflow improvements. Specializes in backend architecture, API development, and creating scalable solutions.
+I'm a backend-focused Fullstack Developer with a Systems Analysis and Development degree and ongoing Software Engineering postgrad. I have strong expertise in code architecture, creating robust and scalable solutions for complex systems. I work across the entire development lifecycle, from conception to deployment, implementing high-performance APIs and systems. I leverage agile methodologies while focusing on the continuous enhancement of legacy systems and the development of innovative new technological solutions.
 
 ---
 
